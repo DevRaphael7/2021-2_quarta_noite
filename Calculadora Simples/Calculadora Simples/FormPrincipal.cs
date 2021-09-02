@@ -15,7 +15,6 @@ namespace Calculadora_Simples
         public FormPrincipal()
         {
             InitializeComponent();
-
         }
 
         private void TrataOperacao_Click(object sender, EventArgs e)
@@ -28,6 +27,10 @@ namespace Calculadora_Simples
                 vb = txtValorB.Text;
 
                 Matematica mat = new Matematica(vA, vb);
+                /*
+                 * Usa o objeto sender (que é o próprio botão que foi clicado) e pega
+                 * a propriedade "Name" dele para disparar o método correto:
+                 */
                 switch (((Button)sender).Name)
                 {
                     case "btSomar":
@@ -52,6 +55,7 @@ namespace Calculadora_Simples
 
         private void btLimpar_Click(object sender, EventArgs e)
         {
+            //limpa os dois campos e "reseta" o label do resultado:
             txtValorA.Clear();
             txtValorB.Clear();
             lbResultado.Text = "---";
