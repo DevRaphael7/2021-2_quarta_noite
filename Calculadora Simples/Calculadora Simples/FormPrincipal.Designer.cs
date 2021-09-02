@@ -87,7 +87,7 @@ namespace Calculadora_Simples
             this.btSomar.TabIndex = 4;
             this.btSomar.Text = "+";
             this.btSomar.UseVisualStyleBackColor = false;
-            this.btSomar.Click += new System.EventHandler(this.btSoma_Click);
+            this.btSomar.Click += new System.EventHandler(this.TrataOperacao_Click);
             // 
             // btSubtracao
             // 
@@ -100,7 +100,7 @@ namespace Calculadora_Simples
             this.btSubtracao.TabIndex = 5;
             this.btSubtracao.Text = "-";
             this.btSubtracao.UseVisualStyleBackColor = false;
-            this.btSubtracao.Click += new System.EventHandler(this.btSubtracao_Click);
+            this.btSubtracao.Click += new System.EventHandler(this.TrataOperacao_Click);
             // 
             // btMultiplicacao
             // 
@@ -112,7 +112,7 @@ namespace Calculadora_Simples
             this.btMultiplicacao.TabIndex = 6;
             this.btMultiplicacao.Text = "x";
             this.btMultiplicacao.UseVisualStyleBackColor = false;
-            this.btMultiplicacao.Click += new System.EventHandler(this.btMultiplicacao_Click);
+            this.btMultiplicacao.Click += new System.EventHandler(this.TrataOperacao_Click);
             // 
             // btDivisao
             // 
@@ -124,7 +124,7 @@ namespace Calculadora_Simples
             this.btDivisao.TabIndex = 7;
             this.btDivisao.Text = "÷";
             this.btDivisao.UseVisualStyleBackColor = false;
-            this.btDivisao.Click += new System.EventHandler(this.btDivisao_Click);
+            this.btDivisao.Click += new System.EventHandler(this.TrataOperacao_Click);
             // 
             // lbResultado
             // 
@@ -166,7 +166,6 @@ namespace Calculadora_Simples
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormPrincipal";
             this.Text = "Calculadora Simples";
-            this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

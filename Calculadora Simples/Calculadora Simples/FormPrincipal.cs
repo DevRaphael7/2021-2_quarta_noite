@@ -15,95 +15,38 @@ namespace Calculadora_Simples
         public FormPrincipal()
         {
             InitializeComponent();
-        }
-
-        private void FormPrincipal_Load(object sender, EventArgs e)
-        {
 
         }
 
-        private void btSoma_Click(object sender, EventArgs e)
+        private void TrataOperacao_Click(object sender, EventArgs e)
         {
-            String va, vb;
-            double vaD, vbD;
-            va = txtValorA.Text;
-            vb = txtValorB.Text;
-
             try
             {
-                vaD = Double.Parse(va);
-                vbD = Double.Parse(vb);
-                lbResultado.Text = (vaD + vbD).ToString();
+                String vA, vb;
 
-            } catch (Exception ex)
-            {
-                lbResultado.Text = "Erro";
-            }
-        }
+                vA = txtValorA.Text;
+                vb = txtValorB.Text;
 
-        private void btSubtracao_Click(object sender, EventArgs e)
-        {
-            String va, vb;
-            double vaD, vbD;
-            va = txtValorA.Text;
-            vb = txtValorB.Text;
-
-            try
-            {
-                vaD = Double.Parse(va);
-                vbD = Double.Parse(vb);
-                lbResultado.Text = (vaD - vbD).ToString();
-
-            }
-            catch (Exception ex)
-            {
-                lbResultado.Text = "Erro";
-            }
-        }
-
-        private void btMultiplicacao_Click(object sender, EventArgs e)
-        {
-            String va, vb;
-            double vaD, vbD;
-            va = txtValorA.Text;
-            vb = txtValorB.Text;
-
-            try
-            {
-                vaD = Double.Parse(va);
-                vbD = Double.Parse(vb);
-                lbResultado.Text = (vaD * vbD).ToString();
-
-            }
-            catch (Exception ex)
-            {
-                lbResultado.Text = "Erro";
-            }
-        }
-
-        private void btDivisao_Click(object sender, EventArgs e)
-        {
-            String va, vb;
-            double vaD, vbD;
-            va = txtValorA.Text;
-            vb = txtValorB.Text;
-
-            try
-            {
-                vaD = Double.Parse(va);
-                vbD = Double.Parse(vb);
-                if(vbD == 0)
+                Matematica mat = new Matematica(vA, vb);
+                switch (((Button)sender).Name)
                 {
-                    lbResultado.Text = "Não existe";
-                } else
-                {
-                    lbResultado.Text = (vaD / vbD).ToString();
+                    case "btSomar":
+                        lbResultado.Text = mat.Soma().ToString();
+                        break;
+                    case "btSubtracao":
+                        lbResultado.Text = mat.Subtracao().ToString();
+                        break;
+                    case "btMultiplicacao":
+                        lbResultado.Text = mat.Multiplicacao().ToString();
+                        break;
+                    case "btDivisao":
+                        lbResultado.Text = mat.Divisao().ToString();
+                        break;
                 }
-
             }
             catch (Exception ex)
             {
-                lbResultado.Text = "Erro";
+                lbResultado.Text = ex.Message;
             }
         }
 
