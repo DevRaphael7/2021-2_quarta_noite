@@ -1,0 +1,14 @@
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.manifest
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.application
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.FrmPrincipal.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Properties.Resources.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.GenerateResource.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe.manifest
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.application
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb

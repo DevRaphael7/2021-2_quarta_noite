@@ -1,0 +1,10 @@
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\bin\Debug\Loops.exe.config
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\bin\Debug\Loops.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\bin\Debug\Loops.pdb
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.FrmPrincipal.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.Properties.Resources.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.csproj.GenerateResource.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Loops\Loops\obj\Debug\Loops.pdb
