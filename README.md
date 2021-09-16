@@ -7,7 +7,8 @@
 
 ## Link das atividades
 
- - Atividade 1  [LINK](https://forms.gle/xubyeso7Ei8VmgvW8) - De 15.09 até 22.09, 19.30
+ - Atividade 1: [LINK](https://forms.gle/xubyeso7Ei8VmgvW8) - De 15.09 até 22.09, 19.30
+
 
 
 
