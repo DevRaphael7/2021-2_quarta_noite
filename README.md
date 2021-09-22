@@ -5,6 +5,8 @@
 
 ***
 
+**O Prof. Thiago Traue estará afastado entre 27.09 e 01.10 e, portanto, solicita gentilmente que a turma faça as atividades abaixo**
+
 ## Link das atividades
 
  - Atividade 1: [LINK](https://forms.gle/xubyeso7Ei8VmgvW8) - De 15.09 até 01.12, 19.30h
