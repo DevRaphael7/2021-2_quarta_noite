@@ -1,0 +1,10 @@
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\bin\Debug\Por Valor e Por Referencia.exe.config
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\bin\Debug\Por Valor e Por Referencia.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\bin\Debug\Por Valor e Por Referencia.pdb
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por Valor e Por Referencia.csproj.AssemblyReference.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por_Valor_e_Por_Referencia.FrmPrincipal.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por_Valor_e_Por_Referencia.Properties.Resources.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por Valor e Por Referencia.csproj.GenerateResource.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por Valor e Por Referencia.csproj.CoreCompileInputs.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por Valor e Por Referencia.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Por Valor e Por Referencia\Por Valor e Por Referencia\obj\Debug\Por Valor e Por Referencia.pdb
