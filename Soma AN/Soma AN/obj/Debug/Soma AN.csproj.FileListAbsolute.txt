@@ -8,3 +8,13 @@ Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma A
 Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.csproj.CoreCompileInputs.cache
 Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.exe
 Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.pdb
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\bin\Debug\Soma AN.exe.config
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\bin\Debug\Soma AN.exe
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\bin\Debug\Soma AN.pdb
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.csproj.AssemblyReference.cache
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma_AN.FrmPrincipal.resources
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma_AN.Properties.Resources.resources
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.csproj.GenerateResource.cache
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.csproj.CoreCompileInputs.cache
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.exe
+Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Soma AN\Soma AN\obj\Debug\Soma AN.pdb
