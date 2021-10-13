@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projeto_com_Duas_Forms
 {
-    class Pessoa
+    public class Pessoa
     {
         private string nome;
         private string sobrenome;

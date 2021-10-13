@@ -31,7 +31,6 @@ namespace Projeto_com_Duas_Forms
         {
             this.txtPessoas = new System.Windows.Forms.TextBox();
             this.btFechar = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtPessoas
@@ -39,6 +38,8 @@ namespace Projeto_com_Duas_Forms
             this.txtPessoas.Location = new System.Drawing.Point(12, 12);
             this.txtPessoas.Multiline = true;
             this.txtPessoas.Name = "txtPessoas";
+            this.txtPessoas.ReadOnly = true;
+            this.txtPessoas.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtPessoas.Size = new System.Drawing.Size(804, 600);
             this.txtPessoas.TabIndex = 0;
             // 
@@ -54,22 +55,11 @@ namespace Projeto_com_Duas_Forms
             this.btFechar.UseVisualStyleBackColor = false;
             this.btFechar.Click += new System.EventHandler(this.btFechar_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(35, 711);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(710, 77);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // FrmPessoas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(828, 800);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(828, 710);
             this.Controls.Add(this.btFechar);
             this.Controls.Add(this.txtPessoas);
             this.Name = "FrmPessoas";
@@ -84,6 +74,5 @@ namespace Projeto_com_Duas_Forms
 
         private System.Windows.Forms.TextBox txtPessoas;
         private System.Windows.Forms.Button btFechar;
-        private System.Windows.Forms.Button button1;
     }
 }

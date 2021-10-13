@@ -8,3 +8,13 @@ Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora 
 Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.CoreCompileInputs.cache
 Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
 Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.AssemblyReference.cache
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.FormPrincipal.resources
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.cache
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+\\Mac\Home\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb

@@ -12,30 +12,41 @@ namespace Projeto_com_Duas_Forms
 {
     partial class FrmPessoas : Form
     {
-        public List<Pessoa> ListaPessoas { get; set; }
+        //variável local (segundo form) da lista de pessoas
+        private List<Pessoa> listaPessoas;
 
         public FrmPessoas()
         {
             InitializeComponent();
-            ListaPessoas = new List<Pessoa>();
+            listaPessoas = new List<Pessoa>(); //cria uma lista vazia de pessoas
+        }
+
+        public FrmPessoas(List<Pessoa> pessoas)
+        {
+            InitializeComponent();
+            listaPessoas = pessoas; //seta a variável local de pessoas pelo recebido via onstrutor
         }
 
         private void btFechar_Click(object sender, EventArgs e)
         {
-            Dispose();
+            Dispose(); //fecha o formulário atual (limpa a instância)
         }
 
         private void FrmPessoas_Load(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            foreach (Pessoa p in ListaPessoas)
+            //verifica se a lista possui ao menos uma pessoa para exibir
+            if (listaPessoas.Count > 0)
             {
-                txtPessoas.Text += p.listaDados();
-                txtPessoas.Text += "--------------";
+                //para cada pessoa na lista, exibe...
+                foreach(Pessoa p in listaPessoas)
+                {
+                    txtPessoas.Text += p.listaDados();
+                    txtPessoas.Text += "--------------------" + Environment.NewLine;
+                }
+            } else
+            {
+                MessageBox.Show("Sem dados para exibir!");
+                Dispose();
             }
         }
     }

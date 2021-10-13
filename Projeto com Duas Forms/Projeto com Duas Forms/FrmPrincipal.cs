@@ -23,30 +23,35 @@ namespace Projeto_com_Duas_Forms
 
         private void btListar_Click(object sender, EventArgs e)
         {
-            FrmPessoas formPessoas = new FrmPessoas();
-            formPessoas.ListaPessoas = pessoas;
-            formPessoas.Show();
+            //Cria o novo formulário
+            //passando para ele a lista criada localmenete:
+            FrmPessoas formPessoas = new FrmPessoas(pessoas);
+            formPessoas.Show(); //mostra o formulário
         }
 
         private void btIncluir_Click(object sender, EventArgs e)
         {
+            //verifica se o nome OU o sobrenome estao preenchidos
             if (txtNome.Text == "" || txtSobrenome.Text == "")
             {
                 MessageBox.Show("Verifique se você preencheu o nome e o sobrenome");
                 return;
             }
 
+            //cria uma instância nova de pessoa
             Pessoa p = new Pessoa(
                     txtNome.Text,
                     txtSobrenome.Text,
                     txtMail.Text);
 
+            //adiciona na lista de pessoas local
             pessoas.Add(p);
 
+            //limpa os campos e coloca o cursor do teclado no primeiro
             txtNome.Clear();
             txtSobrenome.Clear();
             txtMail.Clear();
-            txtNome.Focus();
+            txtNome.Focus(); // <- isso que move o cursor do teclado
 
             MessageBox.Show(p.Nome + " cadastrado(a)!");
         }

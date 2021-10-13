@@ -9,3 +9,14 @@ Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Projeto com Duas Forms\Projeto c
 Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.exe
 Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.pdb
 Z:\OneDrive\Uninove\2021.2\repositorios\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto_com_Duas_Forms.FrmPessoas.resources
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\bin\Debug\Projeto com Duas Forms.exe.config
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\bin\Debug\Projeto com Duas Forms.exe
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\bin\Debug\Projeto com Duas Forms.pdb
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.csproj.AssemblyReference.cache
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto_com_Duas_Forms.FrmPessoas.resources
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto_com_Duas_Forms.FrmPrincipal.resources
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto_com_Duas_Forms.Properties.Resources.resources
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.csproj.GenerateResource.cache
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.csproj.CoreCompileInputs.cache
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.exe
+Y:\4_noite\Projeto com Duas Forms\Projeto com Duas Forms\obj\Debug\Projeto com Duas Forms.pdb
