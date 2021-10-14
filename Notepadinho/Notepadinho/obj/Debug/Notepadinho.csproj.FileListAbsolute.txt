@@ -1,0 +1,11 @@
+Y:\4_noite\Notepadinho\Notepadinho\bin\Debug\Notepadinho.exe.config
+Y:\4_noite\Notepadinho\Notepadinho\bin\Debug\Notepadinho.exe
+Y:\4_noite\Notepadinho\Notepadinho\bin\Debug\Notepadinho.pdb
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.csproj.AssemblyReference.cache
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.FrmPrincipal.resources
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.FrmTexto.resources
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.Properties.Resources.resources
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.csproj.GenerateResource.cache
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.csproj.CoreCompileInputs.cache
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.exe
+Y:\4_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.pdb
