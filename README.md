@@ -7,9 +7,9 @@
 
 ## Link das atividades
 
- - Atividade 1: [LINK](https://forms.gle/xubyeso7Ei8VmgvW8) - De 15.09 até 01.12, 19.30h
- - Atividade 2: [LINK](https://forms.gle/nZyF9JLV5wXYTAAY7) - De 29.09 até 01.12, 19,30h
-
+ - Atividade 1: [LINK](https://forms.gle/xubyeso7Ei8VmgvW8) - De 15.09 até 01.12, 19h
+ - Atividade 2: [LINK](https://forms.gle/nZyF9JLV5wXYTAAY7) - De 29.09 até 01.12, 19h
+ - Atividade 3: [LINK](https://forms.gle/FcDQbG6jfK6n1gWL6) - De 20.10 até 01.12, 19h
 
 
 ## Preparação do ambiente
