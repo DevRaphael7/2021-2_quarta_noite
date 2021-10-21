@@ -49,6 +49,7 @@ namespace Notepadinho
             this.ClientSize = new System.Drawing.Size(1114, 848);
             this.Controls.Add(this.txtTextoUsuario);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Name = "FrmTexto";
             this.Text = "FrmTexto";
             this.ResumeLayout(false);
@@ -57,6 +58,6 @@ namespace Notepadinho
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox txtTextoUsuario;
+        public System.Windows.Forms.RichTextBox txtTextoUsuario;
     }
 }
