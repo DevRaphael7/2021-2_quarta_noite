@@ -4,4 +4,4 @@ Instalar com o Visual Studio fechado e usar sempre a opção "Complete"
  
  1 - https://dev.mysql.com/downloads/windows/visualstudio/ (MSI Installer)
  2 - https://dev.mysql.com/downloads/connector/net/ 
-
+ 3 - XAMPP: https://www.apachefriends.org/pt_br/index.html
