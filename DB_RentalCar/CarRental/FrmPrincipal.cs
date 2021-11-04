@@ -16,5 +16,22 @@ namespace CarRental
         {
             InitializeComponent();
         }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Dispose();
+        }
+
+        private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //Criar um novo formuário (em uma instância local) de cadastro de clientes
+            Form frmCliente = new FrmCadastroCliente();
+
+            //Definir o parent (pai) MDI dela:
+            frmCliente.MdiParent = this;
+
+            //abre o form...:
+            frmCliente.Show();
+        }
     }
 }
