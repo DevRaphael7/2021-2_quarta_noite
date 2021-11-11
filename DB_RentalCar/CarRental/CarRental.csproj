@@ -89,7 +89,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Conexao.cs" />
+    <Compile Include="DAO\ClienteDAO.cs" />
+    <Compile Include="DAO\Conexao.cs" />
     <Compile Include="FrmCadastroCliente.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +103,7 @@
     <Compile Include="FrmPrincipal.Designer.cs">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Cliente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmCadastroCliente.resx">
@@ -133,5 +135,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

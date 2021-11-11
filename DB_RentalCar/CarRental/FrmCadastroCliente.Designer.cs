@@ -120,6 +120,7 @@ namespace CarRental
             this.btGravar.TabIndex = 8;
             this.btGravar.Text = "Gravar";
             this.btGravar.UseVisualStyleBackColor = true;
+            this.btGravar.Click += new System.EventHandler(this.btGravar_Click);
             // 
             // btFechar
             // 
