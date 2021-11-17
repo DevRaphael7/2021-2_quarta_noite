@@ -5,6 +5,9 @@
 
 ***
 
+## A Avaliação Integrada ocorrerá no dia **09/12**, durante a aula.
+
+
 ## Link das atividades
 
  - Atividade 1: [LINK](https://forms.gle/xubyeso7Ei8VmgvW8) - De 15.09 até 01.12, 19h
@@ -12,7 +15,8 @@
  - Atividade 3: [LINK](https://forms.gle/FcDQbG6jfK6n1gWL6) - De 20.10 até 01.12, 19h
  - Atividade 4: [LINK](https://forms.gle/sxXGxZUfv4FeC85L7) - De 03.11 até 01.12, 19h
  - Atividade 5: [LINK](https://forms.gle/yj2qRQYSLsP5BTx36) - De 10.11 até 01.12, 19h
- 
+ - Atividade 6: [LINK](https://forms.gle/jVsuJaSfTP71jTUB6) - De 17.11 até 01.12, 19h
+
 
 ## Preparação do ambiente
 
