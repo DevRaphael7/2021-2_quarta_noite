@@ -1,6 +1,8 @@
 ﻿using CarRental.Model;
 using MySql.Data.MySqlClient;
 using System;
+using System.Collections.Generic;
+using System.Data;
 
 namespace CarRental.DAO
 {
@@ -36,10 +38,45 @@ namespace CarRental.DAO
 
                 return true;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return false;
             }
+        }
+
+        public List<Cliente> GetClientes()
+        {
+            List<Cliente> clientes = new List<Cliente>();
+            String query = "SELECT id_cliente, cpf, nome, data_nasc " +
+                "FROM cliente ORDER BY nome;";
+
+            MySqlConnection conn = Conexao.GetConnection();
+            MySqlCommand cmd = new MySqlCommand(query, conn);
+            MySqlDataReader dtr = null;
+
+            try
+            {
+                conn.Open();
+                dtr = cmd.ExecuteReader();
+
+                while(dtr.Read())
+                {
+                    Cliente c = new Cliente();
+                    c.Cpf = dtr.GetString("cpf");
+                    c.Nome = dtr.GetString("nome");
+                    c.IdCliente = dtr.GetInt32("id_cliente");
+                    c.Data_Nasc = dtr.GetDateTime("data_nasc");
+
+                    clientes.Add(c);
+                }
+            }
+            catch
+            {
+
+            }
+
+            conn.Close();
+            return clientes;
         }
     }
 }

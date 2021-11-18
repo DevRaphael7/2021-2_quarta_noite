@@ -31,3 +31,5 @@ Y:\4_noite\DB_RentalCar\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.c
 Y:\4_noite\DB_RentalCar\CarRental\obj\Debug\CarRental.exe
 Y:\4_noite\DB_RentalCar\CarRental\obj\Debug\CarRental.pdb
 Y:\4_noite\DB_RentalCar\CarRental\obj\Debug\CarRental.FrmCadastroCliente.resources
+Y:\4_noite\DB_RentalCar\CarRental\obj\Debug\CarRental.FrmConsultaCliente.resources
+Y:\4_noite\DB_RentalCar\CarRental\obj\Debug\CarRental.csproj.CopyComplete

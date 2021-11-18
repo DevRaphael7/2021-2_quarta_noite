@@ -77,6 +77,7 @@ namespace CarRental
             this.txtCPF.Name = "txtCPF";
             this.txtCPF.Size = new System.Drawing.Size(170, 31);
             this.txtCPF.TabIndex = 3;
+            this.txtCPF.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             // 
             // lbDtNascimento
             // 
@@ -150,6 +151,7 @@ namespace CarRental
             this.btProcurar.TabIndex = 12;
             this.btProcurar.Text = "Procurar";
             this.btProcurar.UseVisualStyleBackColor = true;
+            this.btProcurar.Click += new System.EventHandler(this.btProcurar_Click);
             // 
             // btLimpar
             // 
@@ -193,17 +195,17 @@ namespace CarRental
         #endregion
 
         private System.Windows.Forms.Label lbCodigoCliente;
-        private System.Windows.Forms.TextBox txtCodCliente;
         private System.Windows.Forms.Label lbCPF;
-        private System.Windows.Forms.MaskedTextBox txtCPF;
         private System.Windows.Forms.Label lbDtNascimento;
-        private System.Windows.Forms.MaskedTextBox txtDataNasc;
         private System.Windows.Forms.Label lbNomeCliente;
-        private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.Button btGravar;
         private System.Windows.Forms.Button btFechar;
         private System.Windows.Forms.Button btExcluir;
         private System.Windows.Forms.Button btProcurar;
         private System.Windows.Forms.Button btLimpar;
+        public System.Windows.Forms.TextBox txtCodCliente;
+        public System.Windows.Forms.MaskedTextBox txtCPF;
+        public System.Windows.Forms.MaskedTextBox txtDataNasc;
+        public System.Windows.Forms.TextBox txtNome;
     }
 }

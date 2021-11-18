@@ -8,6 +8,7 @@ namespace CarRental.Model
 {
     public class Cliente
     {
+        private int idCliente;
         private string nome, cpf;
         private DateTime data_nasc;
 
@@ -15,11 +16,18 @@ namespace CarRental.Model
         {
         }
 
-        public Cliente(string nome, string cpf, DateTime data_nasc)
+        public Cliente(int idCliente, string nome, string cpf, DateTime data_nasc)
         {
+            IdCliente = idCliente;
             Nome = nome;
             Cpf = cpf;
             Data_Nasc = data_nasc;
+        }
+
+        public int IdCliente
+        {
+            get => idCliente;
+            set => idCliente = value;
         }
 
         public string Nome

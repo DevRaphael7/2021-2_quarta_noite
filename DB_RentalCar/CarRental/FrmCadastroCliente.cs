@@ -41,6 +41,7 @@ namespace CarRental
             DateTime.TryParseExact(txtDataNasc.Text, "dd/MM/yyyy", new CultureInfo("pt-BR"), DateTimeStyles.None, out dataAux);
 
             Cliente cliente = new Cliente(
+                0,
                 txtNome.Text,
                 txtCPF.Text,
                 dataAux);
@@ -114,6 +115,13 @@ namespace CarRental
 
             //se todas as validações passarem, retorna-se "true":
             return true;
+        }
+
+        private void btProcurar_Click(object sender, EventArgs e)
+        {
+            FrmConsultaCliente consultaCliente = new FrmConsultaCliente(this);
+            consultaCliente.MdiParent = this.MdiParent;
+            consultaCliente.Show();
         }
     }
 }
